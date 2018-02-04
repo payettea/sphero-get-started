@@ -1,2 +1,2 @@
 # sphero-get-started
-Getting started with Sphero vs code. 
+Getting started with Sphero and VS code. 
