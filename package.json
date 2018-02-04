@@ -1,0 +1,23 @@
+{
+  "name": "sphero-get-started",
+  "version": "1.0.0",
+  "description": "Getting started with Sphero and VS code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payettea/sphero-get-started.git"
+  },
+  "author": "payettea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/payettea/sphero-get-started/issues"
+  },
+  "homepage": "https://github.com/payettea/sphero-get-started#readme",
+  "dependencies": {
+    "serialport": "^6.0.4",
+    "sphero": "^0.9.2"
+  }
+}

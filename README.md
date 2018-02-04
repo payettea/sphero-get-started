@@ -35,4 +35,28 @@ Once installed test to make sure you have command line access to the NPM tool.
 
  It's also worth mentioning that VS Code has great support for Git operations and makes using Git very easy.  
 
+ ## Clone or Download Project Code
+
+ The project sample code is located in this Git repository, theorectially you should be reading this from the repository. Just in case you are not it is located at https://github.com/payettea/sphero-get-started. 
+
+ You will need to get the source code that is posted on the repository to see how to work with the Sphero.  
+
+### Download Code in .zip File
+- Browse to https://github.com/payettea/sphero-get-started
+- On the right hand side there is a 'Clone or Download' button, press it
+- Choose 'Download Zip'
+- Once the .zip file is downloaded unpack it in a location that you will know how to find. *I recommend as best practice, creating a 'workspaces' directory on the machine you are using and creating a sub-directory for each new project. For example: <'SOME ROOT'>/workspaces/sphero-get-started. 
+
+### Clone the Git Hub Repository Using Git
+- Open VS Code
+
+
+## Open Project in VS Code
+
+## Download Node Modules
+
+## Connect to Sphero Windows
+
+## Connect to Sphero Linux
+
 
