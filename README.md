@@ -59,4 +59,11 @@ Once installed test to make sure you have command line access to the NPM tool.
 
 ## Connect to Sphero Linux
 
+## Resources
+ - Connect to Sphero using BLE address - https://github.com/hybridgroup/cylon-sphero/issues/59
+ - 
 
+
+
+ ## Dependencies
+ - cylon.js 
