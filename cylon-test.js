@@ -4,7 +4,7 @@ var Cylon = require('cylon');
 
 Cylon.robot({
     connections: {
-      bluetooth: { adaptor: 'ble', uuid: 'c256808d6004', module: 'cylon-ble' },
+      bluetooth: { adaptor: 'ble', uuid: 'e0060dfaa340', module: 'cylon-ble' },
       //bluetooth2: { adaptor: 'ble', uuid: 'ec2757f8d049', module: 'cylon-ble' },
      },
 
